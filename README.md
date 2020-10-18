@@ -1,2 +1,3 @@
-# notes-app
-note taking application for portfolio and personal research purposes
+# Notes Application
+
+I have been working on a novel project that involves a lot of research and I was somewhat disappointed in the options available for managing research for such a project. I also have been meaning for a while to work up a Python application that uses some JavaScript for a nice user interface. I also want to get more experience launching an application on Google Cloud Platform. This is a test application for now but might launch as a public app once I get it developed. The goal is to make something relatively simple but that is robust enough to use for large projects that involve lots of notes, links, files, etc. 
